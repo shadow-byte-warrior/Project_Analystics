@@ -28,12 +28,28 @@
 
 ---
 
+<div align="center">
+
+### 🧭 Explore the analysis
+
+| | | |
+|:---:|:---:|:---:|
+| 🔍 **[ETL Pipeline](#1️⃣-do-more-skills-get-you-better-pay)** | 🌍 **[Regional Pay](#2️⃣-salary-by-region--pivottables--dax)** | 🛠️ **[Top Skills](#3️⃣-top-skills-of-data-professionals--power-pivot)** |
+| 💰 **[Pay by Skill](#4️⃣-pay-for-the-top-10-skills--combo-pivotchart)** | 📋 **[Workbook Structure](#-workbook-structure)** | 💡 **[Key Takeaways](#-key-takeaways)** |
+
+</div>
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
 - [Questions Analyzed](#-questions-analyzed)
 - [Excel Skills Used](#️-excel-skills-used)
 - [Dataset](#-dataset)
+- [Analysis Pipeline](#️-analysis-pipeline)
+- [Dashboard Highlights](#️-dashboard-highlights)
+- [Tools & Tech](#-tools--tech)
 - [Analysis Breakdown](#-analysis-breakdown)
 - [Workbook Structure](#-workbook-structure)
 - [Key Takeaways](#-key-takeaways)
@@ -82,6 +98,48 @@ Real-world data science job postings from **2023**, including:
 - 💰 **Salaries** — Annual average in USD
 - 📍 **Locations** — US vs. international breakdown
 - 🛠️ **Skills** — Required tools and technologies per role
+
+<br/>
+
+## 🏗️ Analysis Pipeline
+
+```mermaid
+flowchart LR
+    A[(📂 Raw Job\nPostings 2023)] --> B["🔍 Power Query\nExtract · Clean · Load"]
+    B --> C["💪 Power Pivot\nData Model (job_id)"]
+    C --> D["🧮 DAX Measures\nMedian Salary by Segment"]
+    D --> E["📊 Pivot Tables\n& Pivot Charts"]
+    E --> F[["💡 Insights\n& Takeaways"]]
+```
+
+<br/>
+
+## 🖼️ Dashboard Highlights
+
+<table>
+<tr>
+<td width="50%"><img src="0_Resources/Images/2_Project_Analysis_Chart1.png" alt="Skills vs Salary" /><p align="center"><sub><strong>Chart 1</strong> — Skills count vs. median salary</sub></p></td>
+<td width="50%"><img src="0_Resources/Images/2_Project_Analysis_Chart2.png" alt="US vs Non-US Salary" /><p align="center"><sub><strong>Chart 2</strong> — US vs. Non-US salary by role</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="0_Resources/Images/2_Project_Analysis_Chart3.png" alt="Top Skills" /><p align="center"><sub><strong>Chart 3</strong> — Top 10 skills by likelihood</sub></p></td>
+<td width="50%"><img src="0_Resources/Images/2_Project_Analysis_Chart4.png" alt="Pay for Top Skills" /><p align="center"><sub><strong>Chart 4</strong> — Median salary vs. likelihood, top 10 skills</sub></p></td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tools & Tech
+
+<div align="center">
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-217346?style=flat-square&logo=powerautomate&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-Data_Model-217346?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-Measures-217346?style=flat-square)
+![Pivot Charts](https://img.shields.io/badge/Pivot_Charts-Combo_%26_Map-217346?style=flat-square)
+
+</div>
 
 <br/>
 
@@ -283,5 +341,9 @@ SQL is unique — it has the highest likelihood (~53%) AND strong salary (~$93K)
 ### 📄 License
 
 Open for educational and portfolio reference. Dataset sourced from real-world 2023 data science job postings.
+
+<br/>
+
+**[⬆ back to top](#-data-job-market-analysis)**
 
 </div>
