@@ -1,34 +1,32 @@
-<!-- ═══════════════════════ ANIMATED HERO BANNER ═══════════════════════ -->
+<!-- ══════════════════════ HERO BANNER (reliable sources only) ══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:e94560&height=220&section=header&text=DATA%20SCIENCE%20JOB%20MARKET&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Excel-Powered%20Salary%20%26%20Skills%20Intelligence%20Dashboard&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=DATA%20SCIENCE%20JOB%20MARKET&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="banner"/>
 
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<a href="https://github.com/shadow-byte-warrior/Project_Analystics">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=650&lines=Which+skills+actually+pay%3F;US+vs+Non-US+%E2%80%94+who+earns+more%3F;SQL+%2B+Python+%3D+The+Golden+Stack;Built+100%25+in+Microsoft+Excel+%F0%9F%93%8A" alt="Typing SVG" />
-</a>
+# 📊 Excel-Powered Salary & Skills Intelligence Dashboard
 
-<br/><br/>
-
-<!-- ═══════════════════════ STATUS BADGES ═══════════════════════ -->
-<img src="https://img.shields.io/badge/⚡_STATUS-LIVE_DASHBOARD-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📅_DATA-2023_Postings-blue?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📈_SCALE-Thousands_of_Jobs-orange?style=for-the-badge&labelColor=1a1a2e" />
+<!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=600&lines=Which+skills+actually+pay%3F;US+vs+Non-US+—+who+earns+more%3F;SQL+%2B+Python+%3D+The+Golden+Stack;Built+100%25+in+Microsoft+Excel" alt="typing animation"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════ TECH STACK ICONS ═══════════════════════ -->
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-ETL_Engine-2C5E1A?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Pivot-Data_Model-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/DAX-Measures-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<!-- ══════════════════════ STATUS BADGES (shields.io — always works) ══════════════════════ -->
+<img src="https://img.shields.io/badge/⚡_STATUS-LIVE_DASHBOARD-brightgreen?style=for-the-badge&labelColor=1a1a2e" alt="status"/>
+<img src="https://img.shields.io/badge/📅_DATA-2023_Postings-blue?style=for-the-badge&labelColor=1a1a2e" alt="data"/>
+<img src="https://img.shields.io/badge/📈_SCALE-Thousands_of_Jobs-orange?style=for-the-badge&labelColor=1a1a2e" alt="scale"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power_Query-ETL_Engine-2C5E1A?style=for-the-badge" alt="Power Query"/>
+<img src="https://img.shields.io/badge/Power_Pivot-Data_Model-F2C811?style=for-the-badge" alt="Power Pivot"/>
+<img src="https://img.shields.io/badge/DAX-Measures-CC2927?style=for-the-badge" alt="DAX"/>
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/shadow-byte-warrior/Project_Analystics?style=flat-square&label=⭐%20STARS&color=gold" />
-<img src="https://img.shields.io/github/forks/shadow-byte-warrior/Project_Analystics?style=flat-square&label=🍴%20FORKS&color=9cf" />
-<img src="https://img.shields.io/github/last-commit/shadow-byte-warrior/Project_Analystics?style=flat-square&label=🕒%20UPDATED&color=green" />
-<img src="https://img.shields.io/github/repo-size/shadow-byte-warrior/Project_Analystics?style=flat-square&label=💾%20SIZE&color=orange" />
+<img src="https://img.shields.io/github/stars/shadow-byte-warrior/Project_Analystics?style=flat-square&label=STARS&color=gold" alt="stars"/>
+<img src="https://img.shields.io/github/forks/shadow-byte-warrior/Project_Analystics?style=flat-square&label=FORKS&color=9cf" alt="forks"/>
+<img src="https://img.shields.io/github/last-commit/shadow-byte-warrior/Project_Analystics?style=flat-square&label=UPDATED&color=green" alt="updated"/>
 
 <br/><br/>
 
@@ -37,20 +35,20 @@
 <br/>
 
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/1_Project_Analysis.xlsx">
-<img src="https://img.shields.io/badge/📥_DOWNLOAD_WORKBOOK-1_Project_Analysis.xlsx-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/📥_DOWNLOAD_WORKBOOK-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="download"/>
 </a>
 &nbsp;
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics">
-<img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_the_Project-e94560?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-e94560?style=for-the-badge&logo=github&logoColor=white" alt="star"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════ KPI COMMAND CENTER ═══════════════════════ -->
+<!-- ══════════════════════ KPI COMMAND CENTER ══════════════════════ -->
 <div align="center">
 
 ## 🎛️ KPI COMMAND CENTER
@@ -58,45 +56,45 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/money-bag.png" width="42"/><br/>
+💼<br/>
 <b>TOP PAYING ROLE</b><br/><br/>
-<img src="https://img.shields.io/badge/Senior_Data_Engineer-%24150K-e94560?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Senior_Data_Engineer-%24150K-e94560?style=flat-square&labelColor=1a1a2e" alt="kpi1"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/fire-element.png" width="42"/><br/>
+🔥<br/>
 <b>BIGGEST US PREMIUM</b><br/><br/>
-<img src="https://img.shields.io/badge/ML_Engineer-%2B%2448.9K-ff6b35?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/ML_Engineer-%2B%2448.9K-ff6b35?style=flat-square&labelColor=1a1a2e" alt="kpi2"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/database.png" width="42"/><br/>
+🐘<br/>
 <b>#1 IN-DEMAND SKILL</b><br/><br/>
-<img src="https://img.shields.io/badge/SQL-~70%25_of_postings-336791?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/SQL-~70%25_of_postings-336791?style=flat-square&labelColor=1a1a2e" alt="kpi3"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/python.png" width="42"/><br/>
+🐍<br/>
 <b>HIGHEST-PAYING SKILL</b><br/><br/>
-<img src="https://img.shields.io/badge/Python-~%2498K_median-ffd43b?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Python-~%2498K_median-ffd43b?style=flat-square&labelColor=1a1a2e" alt="kpi4"/>
 </td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════ NAVIGATION ═══════════════════════ -->
+<!-- ══════════════════════ NAVIGATION ══════════════════════ -->
 <div align="center">
 
 ## 🗂️ DASHBOARD NAVIGATION
 
 <table>
 <tr>
-<td align="center" width="16%"><a href="#-mission-briefing"><img src="https://img.icons8.com/fluency/48/goal.png" width="38"/><br/><b>Mission<br/>Briefing</b></a></td>
-<td align="center" width="16%"><a href="#-the-four-questions"><img src="https://img.icons8.com/fluency/48/ask-question.png" width="38"/><br/><b>Four<br/>Questions</b></a></td>
-<td align="center" width="16%"><a href="#️-tech-stack--pipeline"><img src="https://img.icons8.com/fluency/48/settings.png" width="38"/><br/><b>Tech<br/>Stack</b></a></td>
-<td align="center" width="16%"><a href="#-panel-01--skills-vs-pay"><img src="https://img.icons8.com/fluency/48/combo-chart.png" width="38"/><br/><b>Analysis<br/>Panels</b></a></td>
-<td align="center" width="16%"><a href="#-key-takeaways-board"><img src="https://img.icons8.com/fluency/48/idea.png" width="38"/><br/><b>Takeaways<br/>Board</b></a></td>
-<td align="center" width="16%"><a href="#-connect-with-me"><img src="https://img.icons8.com/fluency/48/handshake.png" width="38"/><br/><b>Connect</b></a></td>
+<td align="center" width="16%"><a href="#-mission-briefing">🎯<br/><b>Mission<br/>Briefing</b></a></td>
+<td align="center" width="16%"><a href="#-the-four-questions">❓<br/><b>Four<br/>Questions</b></a></td>
+<td align="center" width="16%"><a href="#️-tech-stack--pipeline">🛠️<br/><b>Tech<br/>Stack</b></a></td>
+<td align="center" width="16%"><a href="#-panel-01--skills-vs-pay">📊<br/><b>Analysis<br/>Panels</b></a></td>
+<td align="center" width="16%"><a href="#-key-takeaways-board">💡<br/><b>Takeaways<br/>Board</b></a></td>
+<td align="center" width="16%"><a href="#-connect-with-me">🤝<br/><b>Connect</b></a></td>
 </tr>
 </table>
 
@@ -106,13 +104,9 @@
 
 ## 🎯 Mission Briefing
 
-<img align="right" src="https://img.icons8.com/fluency/96/microsoft-excel-2019.png" width="90"/>
-
 As someone who's navigated the data job market firsthand, I noticed a gap: very little structured data exists to help job seekers know **what skills to learn** and **what salary to realistically expect**.
 
 This dashboard closes that gap — turning thousands of raw **2023 job postings** into four decision-ready answers using nothing but Excel's advanced analytics toolkit.
-
-<br/>
 
 <div align="center">
 
@@ -144,10 +138,10 @@ Real-world data science job postings from **2023**, including:
 
 | | Field | Description |
 |:---:|---|---|
-| <img src="https://img.icons8.com/fluency/24/businessman.png"/> | **Job Titles** | Data Analyst, Data Scientist, ML Engineer, Senior Data Engineer, etc. |
-| <img src="https://img.icons8.com/fluency/24/us-dollar-circled.png"/> | **Salaries** | Annual average in USD |
-| <img src="https://img.icons8.com/fluency/24/marker.png"/> | **Locations** | US vs. international breakdown |
-| <img src="https://img.icons8.com/fluency/24/maintenance.png"/> | **Skills** | Required tools and technologies per role |
+| 👨‍💼 | **Job Titles** | Data Analyst, Data Scientist, ML Engineer, Senior Data Engineer, etc. |
+| 💰 | **Salaries** | Annual average in USD |
+| 📍 | **Locations** | US vs. international breakdown |
+| 🛠️ | **Skills** | Required tools and technologies per role |
 
 </details>
 
@@ -159,10 +153,10 @@ Real-world data science job postings from **2023**, including:
 
 | # | Question | Jump To |
 |:---:|---|:---:|
-| <img src="https://img.icons8.com/fluency/28/1-circle.png"/> | **Do more skills get you better pay?** | [`→ PANEL 01`](#-panel-01--skills-vs-pay) |
-| <img src="https://img.icons8.com/fluency/28/2-circle.png"/> | **What's the salary for data jobs across regions?** | [`→ PANEL 02`](#-panel-02--regional-salary-radar) |
-| <img src="https://img.icons8.com/fluency/28/3-circle.png"/> | **What are the top skills of data professionals?** | [`→ PANEL 03`](#-panel-03--skill-leaderboard) |
-| <img src="https://img.icons8.com/fluency/28/4-circle.png"/> | **What's the pay for the top 10 skills?** | [`→ PANEL 04`](#-panel-04--pay-vs-demand-matrix) |
+| 1️⃣ | **Do more skills get you better pay?** | [`→ PANEL 01`](#-panel-01--skills-vs-pay) |
+| 2️⃣ | **What's the salary for data jobs across regions?** | [`→ PANEL 02`](#-panel-02--regional-salary-radar) |
+| 3️⃣ | **What are the top skills of data professionals?** | [`→ PANEL 03`](#-panel-03--skill-leaderboard) |
+| 4️⃣ | **What's the pay for the top 10 skills?** | [`→ PANEL 04`](#-panel-04--pay-vs-demand-matrix) |
 
 </div>
 
@@ -172,28 +166,24 @@ Real-world data science job postings from **2023**, including:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode&perline=8" height="40"/>
-
-<br/><br/>
-
 | | Tool | Purpose |
 |:---:|:---|:---|
-| <img src="https://img.icons8.com/fluency/32/search.png"/> | **Power Query (ETL)** | Extract, clean, and load job data from raw sources |
-| <img src="https://img.icons8.com/fluency/32/strength.png"/> | **Power Pivot** | Build a relational data model across multiple tables |
-| <img src="https://img.icons8.com/fluency/32/formula-fx.png"/> | **DAX** | Custom measures — median salary, US vs. Non-US splits |
-| <img src="https://img.icons8.com/fluency/32/pivot-table.png"/> | **PivotTables** | Slice and dice data across roles, countries, and skills |
-| <img src="https://img.icons8.com/fluency/32/combo-chart.png"/> | **PivotCharts** | Combo visualizations — salary vs. skills, dual-axis views |
+| 🔍 | **Power Query (ETL)** | Extract, clean, and load job data from raw sources |
+| 💪 | **Power Pivot** | Build a relational data model across multiple tables |
+| 🧮 | **DAX** | Custom measures — median salary, US vs. Non-US splits |
+| 📊 | **PivotTables** | Slice and dice data across roles, countries, and skills |
+| 📈 | **PivotCharts** | Combo visualizations — salary vs. skills, dual-axis views |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════ PANEL 01 ═══════════════════════ -->
+<!-- ══════════════════════ PANEL 01 ══════════════════════ -->
 <div align="center">
 
 ## 📊 PANEL 01 — Skills vs. Pay
 
-<img src="https://img.shields.io/badge/EXCEL_SKILL-Power_Query_(ETL)-2C5E1A?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXCEL_SKILL-Power_Query_(ETL)-2C5E1A?style=for-the-badge" alt="skill badge"/>
 
 </div>
 
@@ -215,18 +205,18 @@ Two clean queries were built from the raw dataset:
 <table>
 <tr>
 <td width="50%" align="center"><b>Applied Steps — <code>data_jobs_all</code></b><br/><br/>
-<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot1.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot1.png" width="100%"/></a>
+<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot1.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot1.png" width="100%" alt="steps 1"/></a>
 </td>
 <td width="50%" align="center"><b>Applied Steps — <code>data_job_skills</code></b><br/><br/>
-<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot2.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot2.png" width="100%"/></a>
+<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot2.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot2.png" width="100%" alt="steps 2"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center"><b>Loaded Table — <code>data_jobs_all</code></b><br/><br/>
-<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot3.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot3.png" width="100%"/></a>
+<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot3.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot3.png" width="100%" alt="table 1"/></a>
 </td>
 <td width="50%" align="center"><b>Loaded Table — <code>data_job_skills</code></b><br/><br/>
-<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot4.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot4.png" width="100%"/></a>
+<a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot4.png"><img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot4.png" width="100%" alt="table 2"/></a>
 </td>
 </tr>
 </table>
@@ -237,7 +227,7 @@ Two clean queries were built from the raw dataset:
 <div align="center">
 
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Chart1.png">
-<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart1.png" width="85%" style="border-radius:10px"/>
+<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart1.png" width="85%" alt="chart 1"/>
 </a>
 
 </div>
@@ -255,16 +245,16 @@ Two clean queries were built from the raw dataset:
 </tr>
 </table>
 
-<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square"/></a></div>
+<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square" alt="back"/></a></div>
 
 ---
 
-<!-- ═══════════════════════ PANEL 02 ═══════════════════════ -->
+<!-- ══════════════════════ PANEL 02 ══════════════════════ -->
 <div align="center">
 
 ## 🌍 PANEL 02 — Regional Salary Radar
 
-<img src="https://img.shields.io/badge/EXCEL_SKILLS-PivotTables_+_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXCEL_SKILLS-PivotTables_+_DAX-F2C811?style=for-the-badge" alt="skill badge"/>
 
 </div>
 
@@ -287,7 +277,7 @@ CALCULATE(
 <div align="center">
 
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Chart2.png">
-<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart2.png" width="85%"/>
+<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart2.png" width="85%" alt="chart 2"/>
 </a>
 
 <br/><br/>
@@ -317,16 +307,16 @@ CALCULATE(
 </tr>
 </table>
 
-<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square"/></a></div>
+<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square" alt="back"/></a></div>
 
 ---
 
-<!-- ═══════════════════════ PANEL 03 ═══════════════════════ -->
+<!-- ══════════════════════ PANEL 03 ══════════════════════ -->
 <div align="center">
 
 ## 🏆 PANEL 03 — Skill Leaderboard
 
-<img src="https://img.shields.io/badge/EXCEL_SKILL-Power_Pivot_(Data_Modeling)-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXCEL_SKILL-Power_Pivot_(Data_Modeling)-CC2927?style=for-the-badge" alt="skill badge"/>
 
 </div>
 
@@ -343,13 +333,13 @@ A data model links `data_jobs_all` and `data_jobs_skill` via the `job_id` foreig
 **Data Model Relationship**
 
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot5.png">
-<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot5.png" width="80%"/>
+<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot5.png" width="80%" alt="data model"/>
 </a>
 
 **Loaded Data in Power Pivot**
 
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Screenshot6.png">
-<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot6.png" width="80%"/>
+<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Screenshot6.png" width="80%" alt="power pivot"/>
 </a>
 
 </div>
@@ -360,29 +350,25 @@ A data model links `data_jobs_all` and `data_jobs_skill` via the `job_id` foreig
 <div align="center">
 
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Chart3.png">
-<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart3.png" width="85%"/>
+<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart3.png" width="85%" alt="chart 3"/>
 </a>
 
 <br/><br/>
 
 ### 🎖️ TOP 10 SKILL RANKINGS
 
-<img src="https://skillicons.dev/icons?i=mysql,python,aws,azure,java,kafka&perline=10" height="42"/>
-
-<br/><br/>
-
 | Rank | Skill | Demand Meter | Likelihood |
 |:---:|---|---|:---:|
-| 🥇 | **SQL** | `██████████████░░░░░░` | **~70%** |
-| 🥈 | **Python** | `█████████████░░░░░░░` | **~65%** |
-| 🥉 | **AWS** | `█████████░░░░░░░░░░░` | **~43%** |
-| 4 | **Spark** | `██████░░░░░░░░░░░░░░` | ~32% |
-| 5 | **Azure** | `██████░░░░░░░░░░░░░░` | ~31% |
-| 6 | **Snowflake** | `█████░░░░░░░░░░░░░░░` | ~25% |
-| 7 | **Java** | `█████░░░░░░░░░░░░░░░` | ~23% |
-| 8 | **Hadoop** | `████░░░░░░░░░░░░░░░░` | ~18% |
-| 9 | **Kafka** | `███░░░░░░░░░░░░░░░░░` | ~17% |
-| 10 | **NoSQL** | `███░░░░░░░░░░░░░░░░░` | ~16% |
+| 🥇 | 🐘 **SQL** | `██████████████░░░░░░` | **~70%** |
+| 🥈 | 🐍 **Python** | `█████████████░░░░░░░` | **~65%** |
+| 🥉 | ☁️ **AWS** | `█████████░░░░░░░░░░░` | **~43%** |
+| 4 | ⚡ **Spark** | `██████░░░░░░░░░░░░░░` | ~32% |
+| 5 | ☁️ **Azure** | `██████░░░░░░░░░░░░░░` | ~31% |
+| 6 | ❄️ **Snowflake** | `█████░░░░░░░░░░░░░░░` | ~25% |
+| 7 | ☕ **Java** | `█████░░░░░░░░░░░░░░░` | ~23% |
+| 8 | 🐘 **Hadoop** | `████░░░░░░░░░░░░░░░░` | ~18% |
+| 9 | 📨 **Kafka** | `███░░░░░░░░░░░░░░░░░` | ~17% |
+| 10 | 🗄️ **NoSQL** | `███░░░░░░░░░░░░░░░░░` | ~16% |
 
 </div>
 
@@ -399,16 +385,16 @@ A data model links `data_jobs_all` and `data_jobs_skill` via the `job_id` foreig
 </tr>
 </table>
 
-<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square"/></a></div>
+<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square" alt="back"/></a></div>
 
 ---
 
-<!-- ═══════════════════════ PANEL 04 ═══════════════════════ -->
+<!-- ══════════════════════ PANEL 04 ══════════════════════ -->
 <div align="center">
 
 ## 💰 PANEL 04 — Pay vs. Demand Matrix
 
-<img src="https://img.shields.io/badge/EXCEL_SKILL-Advanced_Combo_PivotChart-e94560?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXCEL_SKILL-Advanced_Combo_PivotChart-e94560?style=for-the-badge" alt="skill badge"/>
 
 </div>
 
@@ -430,7 +416,7 @@ This dual-axis view separates *how much a skill pays* from *how often it's reque
 <div align="center">
 
 <a href="https://github.com/shadow-byte-warrior/Project_Analystics/blob/main/0_Resources/Images/2_Project_Analysis_Chart4.png">
-<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart4.png" width="85%"/>
+<img src="https://github.com/shadow-byte-warrior/Project_Analystics/raw/main/0_Resources/Images/2_Project_Analysis_Chart4.png" width="85%" alt="chart 4"/>
 </a>
 
 <br/><br/>
@@ -463,27 +449,27 @@ This dual-axis view separates *how much a skill pays* from *how often it's reque
 </tr>
 </table>
 
-<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square"/></a></div>
+<div align="right"><a href="#️-dashboard-navigation"><img src="https://img.shields.io/badge/↑_BACK_TO_NAV-1a1a2e?style=flat-square" alt="back"/></a></div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════ WORKBOOK STRUCTURE ═══════════════════════ -->
+<!-- ══════════════════════ WORKBOOK STRUCTURE ══════════════════════ -->
 <div align="center">
 
 ## 📋 Workbook Structure
 
 | | Sheet | Contents |
 |:---:|---|---|
-| <img src="https://img.icons8.com/fluency/24/scatter-plot.png"/> | `Salary_Vs_Skills` | Scatter plot — skills count vs. median salary by role |
-| <img src="https://img.icons8.com/fluency/24/pivot-table.png"/> | `Salary_Analysis` | PivotTable — US vs. Non-US salary comparison with DAX |
-| <img src="https://img.icons8.com/fluency/24/bar-chart.png"/> | `Skill_Job_Analysis` | Bar chart — top 10 skills by job posting likelihood |
-| <img src="https://img.icons8.com/fluency/24/combo-chart.png"/> | `Skill_Salary_Analysis` | Combo chart — median salary + likelihood for top 10 skills |
+| 📉 | `Salary_Vs_Skills` | Scatter plot — skills count vs. median salary by role |
+| 📊 | `Salary_Analysis` | PivotTable — US vs. Non-US salary comparison with DAX |
+| 📈 | `Skill_Job_Analysis` | Bar chart — top 10 skills by job posting likelihood |
+| 💹 | `Skill_Salary_Analysis` | Combo chart — median salary + likelihood for top 10 skills |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ TAKEAWAYS BOARD ═══════════════════════ -->
+<!-- ══════════════════════ TAKEAWAYS BOARD ══════════════════════ -->
 <div align="center">
 
 ## 💡 KEY TAKEAWAYS BOARD
@@ -491,34 +477,34 @@ This dual-axis view separates *how much a skill pays* from *how often it's reque
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/positive-dynamic.png" width="40"/><br/>
+📈<br/>
 <b>MORE SKILLS = MORE PAY</b><br/>
 <sub>Senior Data Engineer tops both axes — most skills, highest salary</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/globe--v1.png" width="40"/><br/>
+🌍<br/>
 <b>US ROLES PAY A PREMIUM</b><br/>
 <sub>Especially ML Engineers (+$49K) & Software Engineers (+$36K)</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/database.png" width="40"/><br/>
+👑<br/>
 <b>SQL IS KING</b><br/>
 <sub>~70% demand with a strong ~$93K median</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/python.png" width="40"/><br/>
+🐍<br/>
 <b>PYTHON PAYS THE MOST</b><br/>
 <sub>~$98K median — highest among top 10 skills</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/cloud.png" width="40"/><br/>
+☁️<br/>
 <b>CLOUD IS RISING</b><br/>
 <sub>AWS, Azure & Spark appear in 30–43% of postings</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/decline.png" width="40"/><br/>
+📉<br/>
 <b>OFFICE TOOLS DON'T PAY</b><br/>
 <sub>PowerPoint & Word rank last in both salary and demand</sub>
 </td>
@@ -529,7 +515,7 @@ This dual-axis view separates *how much a skill pays* from *how often it's reque
 
 ---
 
-<!-- ═══════════════════════ HOW TO USE ═══════════════════════ -->
+<!-- ══════════════════════ HOW TO USE ══════════════════════ -->
 ## 🚀 How to Use
 
 <div align="center">
@@ -545,12 +531,10 @@ This dual-axis view separates *how much a skill pays* from *how often it's reque
 
 ---
 
-<!-- ═══════════════════════ AUTHOR / CONNECT ═══════════════════════ -->
+<!-- ══════════════════════ AUTHOR / CONNECT ══════════════════════ -->
 <div align="center">
 
 ## 🤝 Connect With Me
-
-<img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="80"/>
 
 ### **Arun Pandian**
 **AI & Data Science Graduate · Aspiring Data Analyst**
@@ -559,10 +543,10 @@ This dual-axis view separates *how much a skill pays* from *how often it's reque
 <br/>
 
 <a href="https://linkedin.com/in/arunpandiansh2030">
-<img src="https://img.shields.io/badge/LinkedIn-arunpandiansh2030-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-arunpandiansh2030-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/shadow-byte-warrior">
-<img src="https://img.shields.io/badge/GitHub-shadow--byte--warrior-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-shadow--byte--warrior-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -576,7 +560,7 @@ Open for educational and portfolio reference. Dataset sourced from real-world 20
 
 <br/>
 
-<!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:16213e,100:0f3460&height=140&section=footer" width="100%"/>
+<!-- ══════════════════════ FOOTER WAVE ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="footer"/>
 
 </div>
