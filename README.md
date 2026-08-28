@@ -1,6 +1,6 @@
 <!-- ══════════════════════ HERO BANNER (reliable sources only) ══════════════════════ -->
 <div align="center">
-
+    
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=DATA%20SCIENCE%20JOB%20MARKET&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="banner"/>
 
 # 📊 Excel-Powered Salary & Skills Intelligence Dashboard
